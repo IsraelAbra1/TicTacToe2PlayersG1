@@ -20,7 +20,7 @@ public class BoardGame extends View {
     protected void onDraw(@NonNull Canvas canvas) {
         super.onDraw(canvas);
 
-        canvas.drawCircle(500,500,200,new Paint());
+
     }
 
     @Override
